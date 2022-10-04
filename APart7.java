@@ -161,20 +161,13 @@ public class APart7{
                 Human_total_score += humanCount;
                 
                         
-
                 if (humanChoice.equals("h"))
                 {
                     player = 1;
                 }
 
             }
-        }
-
-
-            
-                
-
-                            
+        }               
                             
                             
                     
